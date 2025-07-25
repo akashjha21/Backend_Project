@@ -1,0 +1,8 @@
+# to ignore files in the project where we don't want prettier to format like the major one is .env
+
+/node_modules
+/.vscode
+./dist
+*.env
+.env
+.env.*
