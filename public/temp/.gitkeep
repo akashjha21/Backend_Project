@@ -1,1 +1,3 @@
 Since we can't push new folders inside github until and unless we don't have new files inside it. And while making a big project we must keep tht track of each new files as well as folders so we create this .gitkeep file to push that empty folders inside Github.
+
+Nodemon is a dev dependency. The difference between dependency and dev dependency is that dev dependency is only used for development processes it doesnot goes into the production. Dev dependency ko hmlog development ke time hmlog use karenge. Production m isko hmlog nhi leke jayenge
